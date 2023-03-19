@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6efb79ec-dc8a-495b-8c49-5366c945e67a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/numbers_exercises.rb" beforeDir="false" afterPath="$PROJECT_DIR$/numbers_exercises.rb" afterDir="false" />
-    </list>
+    <list default="true" id="6efb79ec-dc8a-495b-8c49-5366c945e67a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/jpryd/Documents/Ruby/ruby-exercises/ruby_basics",
+    "last_opened_file_path": "C:/Users/jpryd/Documents/Ruby/ruby-exercises/ruby_basics/8_methods",
     "ruby.rails.projectView.checked": "true",
     "ruby.structure.view.model.defaults.configured": "true",
     "vue.rearranger.settings.migration": "true"
@@ -38,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678544317285</updated>
       <workItem from="1678544318386" duration="55000" />
+      <workItem from="1679218809251" duration="28000" />
     </task>
     <servers />
   </component>
